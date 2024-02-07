@@ -2,6 +2,8 @@
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigeryounger&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tigeryounger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tigeryounger" /> </div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
