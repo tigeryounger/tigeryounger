@@ -7,5 +7,3 @@
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tigeryounger" /> </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tigeryounger)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-# 1212121
