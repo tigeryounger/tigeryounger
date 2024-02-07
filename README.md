@@ -6,7 +6,7 @@
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tigeryounger" /> </div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tigeryounger&left_color=green&right_color=red)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=tigeryounger&left_color=green&right_color=red)](https://visitor-badge.glitch.me/badge?page_id=tigeryounger.visitor-badge)
 
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=tigeryounger&theme=xcode" /> </div>
