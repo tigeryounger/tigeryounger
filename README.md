@@ -8,10 +8,7 @@
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=tigeryounger&left_color=green&right_color=red)](https://visitor-badge.glitch.me/badge?page_id=tigeryounger.visitor-badge)
 
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=tigeryounger&theme=xcode" /> </div>
-
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tigeryounger" /> </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tigeryounger)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
