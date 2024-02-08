@@ -31,7 +31,7 @@
     <img src="https://komarev.com/ghpvc/?username=besticsp&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
-<div>
 ### Contribution Chart
+<div>
 <img src="https://ghchart.rshah.org/F46A03/BESTICSP" alt="BESTICSP's Github Chart" />
 </div>
