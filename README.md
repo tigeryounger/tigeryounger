@@ -1,4 +1,5 @@
 # Hey! 👋👋 Welcome to BESTI-CSP Lab 👋👋
+
 <div align="center">
   简体中文 · English
   <!-- dynamic typing effect 动态打字效果 -->
@@ -41,5 +42,7 @@
 # Advisor Information
 ## Jianyi Zhang 张健毅
 Ph.D Associate Professior
-
-
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/tigeryounger/images/zjy_avatar.jpg" />
+<img src="https://cdn.jsdelivr.net/gh/tigeryounger/images/zjy_avatar.jpg" /> 
+</div>
