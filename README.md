@@ -32,6 +32,4 @@
   </div>
 
 # Contribution Chart
-<div>
 <img src="https://ghchart.rshah.org/F46A03/BESTICSP" alt="BESTICSP's Github Chart" />
-</div>
