@@ -1,3 +1,4 @@
+# Hey! 👋👋 Welcome to BESTI-CSP Lab 👋👋
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
