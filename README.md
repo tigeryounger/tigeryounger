@@ -61,10 +61,4 @@
 &nbsp
 </div>
 
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true" />
-
-<div>
-&nbsp
-</div>
-
-<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
+<div align="centet"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
