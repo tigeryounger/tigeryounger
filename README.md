@@ -57,8 +57,8 @@
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 </div>
 
-<div>
+<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true" />
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=哈哈&author=张健毅 Nesebt" />
-</div>
