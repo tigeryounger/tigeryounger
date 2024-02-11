@@ -23,11 +23,9 @@
 
 # 贡献 Contribution
 <div align="center">
-<table>
-<tr>
-<img src="https://ghchart.rshah.org/F46A03/BESTICSP" alt="BESTICSP's Github Chart" />
-</tr>
-</table>
+      <td>
+      <img src="https://ghchart.rshah.org/F46A03/BESTICSP" alt="BESTICSP's Github Chart" />
+      </td>
 </div>
 
 <div>
