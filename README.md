@@ -67,4 +67,4 @@
 &nbsp
 </div>
 
-<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&quote=哈哈&author=张健毅 Nesebt" />
+<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
