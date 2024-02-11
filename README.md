@@ -50,18 +50,17 @@
 <div>
 <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=BESTICSP&theme=dark&border_radius=10&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=450" alt="GitHub Streak" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=BESTICSP&border_radius=10&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=450" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BESTICSP&theme=dark&border_radius=10&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=450" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=BESTICSP&theme=dark&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=BESTICSP&theme=dark&locale=zh_Hans&date_format=%5BY.%5Dn.j" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BESTICSP&theme=dark&locale=zh_Hans&date_format=%5BY.%5Dn.j" />
   </picture>
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 <div>
 
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
+<!-- <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=light&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=default&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
-
+<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" /> -->
