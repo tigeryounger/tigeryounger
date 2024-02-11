@@ -49,7 +49,7 @@
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div>
 <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=BESTICSP&theme=dark&border_radius=10&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=450" alt="GitHub Streak" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=BESTICSP&border_radius=10&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=450" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=BESTICSP&theme=dark&border_radius=10&locale=zh_Hans&date_format=%5BY.%5Dn.j&card_width=450" />
@@ -57,8 +57,3 @@
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 <div>
 
-
-<div align="center">
-# 导师简介 Advisor Information <br/> Jianyi Zhang 张健毅
-Ph.D Associate Professior
-</div>
