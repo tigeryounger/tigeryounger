@@ -15,34 +15,29 @@
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
 
-  <!-- for beauty 留个空行好看点 -->
-  <div>
-  &nbsp;
-  </div>
-  
-  <!-- profile logo 个人资料徽标 -->
-  <div>
-    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=besticsp&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
+<div>
+&nbsp
 </div>
 
-# Contribution Chart
+</div>
+
+# Contribution
 <div align="center">
 <img src="https://ghchart.rshah.org/F46A03/BESTICSP" alt="BESTICSP's Github Chart" />
 </div>
 
-# Advisor Information
-## Jianyi Zhang 张健毅
+<div>
+&nbsp
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BESTICSP)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div>
+&nbsp
+</div>
+
+# Advisor Information <br/> Jianyi Zhang 张健毅
 Ph.D Associate Professior
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/tigeryounger/images/zjy_avatar.jpg" />
-<img src="https://cdn.jsdelivr.net/gh/tigeryounger/images/zjy_avatar.jpg" /> 
+
 </div>
