@@ -125,7 +125,7 @@
 <table>
   <tr>
     <td>
-      <picture>
+      <picture align="center">
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BESTICSP&theme=cobalt" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BESTICSP&theme=minimal&bg_color=FF000000&color=000000&hide_border=true" />
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=BESTICSP&theme=cobalt" />
@@ -138,7 +138,7 @@
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<div style="text-align: center;">
+<div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=BESTICSP&theme=dark&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=BESTICSP&theme=light&locale=zh_Hans&date_format=%5BY.%5Dn.j" />
