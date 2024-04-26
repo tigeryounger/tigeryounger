@@ -122,7 +122,7 @@
 </div>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
-<table align="center">
+<table >
   <tr>
     <td>
       <picture >
@@ -138,7 +138,7 @@
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<div>
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=BESTICSP&theme=dark&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=BESTICSP&theme=light&locale=zh_Hans&date_format=%5BY.%5Dn.j" />
